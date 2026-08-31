@@ -1,12 +1,11 @@
 # ============================================================
-# Mohammed JAMAI — GitHub Pages Portfolio
+# Mohammed JAMAI — Freelance Engineering Portfolio
 # ============================================================
 
-# Site information
 title: "Mohammed JAMAI"
 description: >-
-  Mechatronics Engineer specialized in modeling, simulation,
-  real-time validation, embedded systems and FPGA.
+  Mechatronics Engineer specialized in MATLAB/Simulink,
+  real-time simulation, HIL, FPGA and embedded systems.
 
 author: "Mohammed JAMAI"
 
@@ -16,44 +15,33 @@ author: "Mohammed JAMAI"
 
 theme: jekyll-theme-minimal
 
-# ============================================================
-# Site URL
-# ============================================================
-
 url: "https://m-jamai.github.io"
 baseurl: ""
 
 # ============================================================
-# Theme settings
+# Minimal Theme
 # ============================================================
 
 logo: /assets/img/profile.png
 show_downloads: false
 
 # ============================================================
-# Social / Contact
-# ============================================================
-
-github_username: m-jamai
-linkedin_username: ""
-
-email: "jamai-mohammed@hotmail.com"
-
-# ============================================================
-# Language / SEO
+# Language
 # ============================================================
 
 lang: "en"
 
-twitter:
-  username: ""
-  card: summary
-
 # ============================================================
-# Analytics
+# Social
 # ============================================================
 
-google_analytics:
+github_username: "m-jamai"
+
+# ============================================================
+# Contact
+# ============================================================
+
+email: "jamai-mohammed@hotmail.com"
 
 # ============================================================
 # Markdown
@@ -66,13 +54,7 @@ kramdown:
   syntax_highlighter: rouge
 
 # ============================================================
-# Permalinks
-# ============================================================
-
-permalink: pretty
-
-# ============================================================
-# Build settings
+# Build
 # ============================================================
 
 exclude:
