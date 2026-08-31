@@ -1,6 +1,8 @@
 ---
 
-## layout: default
+layout: default
+title: "Mohammed JAMAI | Mechatronics Engineer"
+-----------------------------------------------
 
 <div class="hero">
   <div class="hero-content">
@@ -56,8 +58,7 @@ My approach is project-oriented:
 Development of mathematical and system models for engineering
 applications and validation.
 
-**Tools:**
-`MATLAB` `Simulink` `PSpice`
+**Tools:** `MATLAB` `Simulink` `PSpice`
 
 </div>
 
@@ -68,8 +69,7 @@ applications and validation.
 Development, integration and validation of real-time models
 for Hardware-in-the-Loop environments.
 
-**Tools:**
-`dSPACE` `SCALEXIO` `MiL` `SiL` `HiL`
+**Tools:** `dSPACE` `SCALEXIO` `MiL` `SiL` `HiL`
 
 </div>
 
@@ -80,8 +80,7 @@ for Hardware-in-the-Loop environments.
 FPGA modeling, integration and validation for real-time
 engineering applications.
 
-**Technologies:**
-`Xilinx` `Quartus` `HLS` `HDL`
+**Technologies:** `Xilinx` `Quartus` `HLS` `HDL`
 
 </div>
 
@@ -92,8 +91,7 @@ engineering applications.
 Embedded software development and testing for complex
 mobility and industrial systems.
 
-**Technologies:**
-`C` `C++` `Python`
+**Technologies:** `C` `C++` `Python`
 
 </div>
 
@@ -202,52 +200,6 @@ different operating scenarios.
 
 <p class="project-role">
 <strong>Role:</strong> Battery Study Engineer
-</p>
-
-</div>
-
-<div class="project-card">
-
-<p class="project-type">AEROSPACE · ELECTROMAGNETICS</p>
-
-<h3>Electric Aircraft Turboreactor Study</h3>
-
-<p>
-Topological design study of a turboreactor for electric aircraft,
-supported by electromagnetic, mechanical and electronic studies.
-</p>
-
-<div class="tags">
-<span>Electromagnetics</span>
-<span>Mechanical</span>
-<span>Electronics</span>
-</div>
-
-<p class="project-role">
-<strong>Role:</strong> Engineering Project
-</p>
-
-</div>
-
-<div class="project-card">
-
-<p class="project-type">ELECTRONICS · DATA ACQUISITION</p>
-
-<h3>Experimental Data Acquisition Board</h3>
-
-<p>
-Design of an electronic board for acquiring physical quantities
-for experimental engineering applications.
-</p>
-
-<div class="tags">
-<span>Electronics</span>
-<span>Data Acquisition</span>
-<span>Embedded</span>
-</div>
-
-<p class="project-role">
-<strong>Role:</strong> Electronics Engineering Project
 </p>
 
 </div>
