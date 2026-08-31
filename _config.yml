@@ -1,44 +1,80 @@
 # ============================================================
-# Mohammed JAMAI — Freelance Engineering Portfolio
+# Mohammed JAMAI — GitHub Pages Portfolio
 # ============================================================
 
-title: "Mohammed JAMAI | Mechatronics Engineer"
-
+# Site information
+title: "Mohammed JAMAI"
 description: >-
-  Mechatronics Engineer specialized in MATLAB/Simulink,
-  real-time simulation, HIL, FPGA and embedded systems.
+  Mechatronics Engineer specialized in modeling, simulation,
+  real-time validation, embedded systems and FPGA.
 
 author: "Mohammed JAMAI"
 
+# ============================================================
+# GitHub Pages / Jekyll
+# ============================================================
+
 theme: jekyll-theme-minimal
+
+# ============================================================
+# Site URL
+# ============================================================
 
 url: "https://m-jamai.github.io"
 baseurl: ""
 
-# Theme
-logo: ""
+# ============================================================
+# Theme settings
+# ============================================================
+
+logo: /assets/img/profile.png
 show_downloads: false
 
-# Language
-lang: "en"
+# ============================================================
+# Social / Contact
+# ============================================================
 
-# Social
-github_username: "m-jamai"
+github_username: m-jamai
+linkedin_username: ""
 
-# Contact
 email: "jamai-mohammed@hotmail.com"
 
+# ============================================================
+# Language / SEO
+# ============================================================
+
+lang: "en"
+
+twitter:
+  username: ""
+  card: summary
+
+# ============================================================
+# Analytics
+# ============================================================
+
+google_analytics:
+
+# ============================================================
 # Markdown
+# ============================================================
+
 markdown: kramdown
 
 kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+# ============================================================
 # Permalinks
+# ============================================================
+
 permalink: pretty
 
-# Build
+# ============================================================
+# Build settings
+# ============================================================
+
 exclude:
   - Gemfile
   - Gemfile.lock
