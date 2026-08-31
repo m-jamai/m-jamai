@@ -1,51 +1,19 @@
-# ============================================================
-# Mohammed JAMAI — Freelance Engineering Portfolio
-# ============================================================
-
 title: "Mohammed JAMAI"
-description: >-
-  Mechatronics Engineer specialized in MATLAB/Simulink,
-  real-time simulation, HIL, FPGA and embedded systems.
-
+description: "Mechatronics Engineer specialized in MATLAB/Simulink, Real-Time Simulation, HIL, FPGA and Embedded Systems."
 author: "Mohammed JAMAI"
-
-# ============================================================
-# GitHub Pages / Jekyll
-# ============================================================
 
 theme: jekyll-theme-minimal
 
 url: "https://m-jamai.github.io"
 baseurl: ""
 
-# ============================================================
-# Minimal Theme
-# ============================================================
-
-logo: /assets/img/profile.png
+logo: ""
 show_downloads: false
-
-# ============================================================
-# Language
-# ============================================================
 
 lang: "en"
 
-# ============================================================
-# Social
-# ============================================================
-
 github_username: "m-jamai"
-
-# ============================================================
-# Contact
-# ============================================================
-
 email: "jamai-mohammed@hotmail.com"
-
-# ============================================================
-# Markdown
-# ============================================================
 
 markdown: kramdown
 
@@ -53,13 +21,4 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-# ============================================================
-# Build
-# ============================================================
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - README.md
+permalink: pretty
