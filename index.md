@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: "Mohammed JAMAI | Mechatronics Engineer"
 -----------------------------------------------
