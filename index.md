@@ -1,26 +1,33 @@
 ---
 layout: default
 title: "Mohammed JAMAI | Mechatronics Engineer"
------------------------------------------------
+---
 
-# Mohammed JAMAI
+<div class="hero">
+  <div class="hero-content">
 
-## Mechatronics Engineer
+    <p class="eyebrow">MECHATRONICS ENGINEER · FREELANCE</p>
 
-Modeling & Simulation · HIL · FPGA · Embedded Systems
+    <h1>
+      Turning complex engineering
+      problems into <span>validated solutions.</span>
+    </h1>
 
-<p>
-I help engineering teams design, model, simulate and validate
-complex systems using MATLAB/Simulink, real-time simulation,
-HIL, FPGA and embedded technologies.
-</p>
+    <p class="hero-description">
+      I help engineering teams design, model, simulate and validate
+      complex systems using MATLAB/Simulink, real-time simulation,
+      HIL, FPGA and embedded technologies.
+    </p>
 
-<div class="hero-buttons">
-  <a href="#projects" class="button primary">View Projects</a>
-  <a href="#contact" class="button secondary">Let's Work Together</a>
+    <div class="hero-buttons">
+      <a href="#projects" class="button primary">View Projects</a>
+      <a href="#contact" class="button secondary">Let's Work Together</a>
+    </div>
+
+  </div>
 </div>
 
----
+<hr>
 
 ## About Me
 
@@ -228,6 +235,34 @@ aging and lifetime under different operating scenarios.
 
 ---
 
+## How I Can Help
+
+<div class="service-card">
+
+### 01 · Understand
+
+Requirements analysis and understanding of the engineering problem.
+
+### 02 · Model
+
+Mathematical, physical and system-level modeling.
+
+### 03 · Implement
+
+MATLAB/Simulink, FPGA or embedded implementation.
+
+### 04 · Validate
+
+MiL, SiL, HiL and real-time testing.
+
+### 05 · Deliver
+
+Tested engineering solution with clear technical results.
+
+</div>
+
+---
+
 ## Experience
 
 ### FPGA Engineer — Vitesco Technologies
@@ -263,6 +298,10 @@ Engineering Degree · Electrodynamics & Advanced Mechatronics
 
 Bachelor's Degree · Embedded Systems
 
+### École Supérieure de Technologie
+
+DUT · Electronics & Industrial Computing
+
 ---
 
 <div id="contact" class="contact-section">
@@ -271,14 +310,14 @@ Bachelor's Degree · Embedded Systems
 
 I'm available for freelance engineering projects involving:
 
-* MATLAB / Simulink
-* MiL / SiL / HiL
-* Real-time simulation
-* FPGA
-* Embedded C/C++
-* Automotive systems
-* Power electronics
-* Battery and energy systems
+- MATLAB / Simulink
+- MiL / SiL / HiL
+- Real-time simulation
+- FPGA
+- Embedded C/C++
+- Automotive systems
+- Power electronics
+- Battery and energy systems
 
 ### Contact
 
