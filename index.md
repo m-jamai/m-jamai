@@ -1,28 +1,31 @@
 ---
+
 layout: default
 title: "Mohammed JAMAI | Mechatronics Engineer"
----
+-----------------------------------------------
 
 <div class="hero">
   <div class="hero-content">
 
-    <p class="eyebrow">MECHATRONICS ENGINEER · FREELANCE</p>
+```
+<p class="eyebrow">MECHATRONICS ENGINEER · FREELANCE</p>
 
-    <h1>
-      Turning complex engineering
-      problems into <span>validated solutions.</span>
-    </h1>
+<h1>
+  Turning complex engineering
+  problems into <span>validated solutions.</span>
+</h1>
 
-    <p class="hero-description">
-      I help engineering teams design, model, simulate and validate
-      complex systems using MATLAB/Simulink, real-time simulation,
-      HIL, FPGA and embedded technologies.
-    </p>
+<p class="hero-description">
+  I help engineering teams design, model, simulate and validate
+  complex systems using MATLAB/Simulink, real-time simulation,
+  HIL, FPGA and embedded technologies.
+</p>
 
-    <div class="hero-buttons">
-      <a href="#projects" class="button primary">View Projects</a>
-      <a href="#contact" class="button secondary">Let's Work Together</a>
-    </div>
+<div class="hero-buttons">
+  <a href="#projects" class="button primary">View Projects</a>
+  <a href="#contact" class="button secondary">Let's Work Together</a>
+</div>
+```
 
   </div>
 </div>
@@ -158,8 +161,7 @@ real-time simulation platforms.
 
 <p>
 Development and evolution of embedded C/C++ functionalities
-for hydrogen mobility applications, including integration
-and virtual testing.
+for hydrogen mobility applications.
 </p>
 
 <div class="tags">
@@ -310,21 +312,19 @@ DUT · Electronics & Industrial Computing
 
 I'm available for freelance engineering projects involving:
 
-- MATLAB / Simulink
-- MiL / SiL / HiL
-- Real-time simulation
-- FPGA
-- Embedded C/C++
-- Automotive systems
-- Power electronics
-- Battery and energy systems
+* MATLAB / Simulink
+* MiL / SiL / HiL
+* Real-time simulation
+* FPGA
+* Embedded C/C++
+* Automotive systems
+* Power electronics
+* Battery and energy systems
 
 ### Contact
 
 **Email:** [jamai-mohammed@hotmail.com](mailto:jamai-mohammed@hotmail.com)
 
 **GitHub:** [github.com/m-jamai](https://github.com/m-jamai)
-
-**LinkedIn:** [Connect with me on LinkedIn](#)
 
 </div>
