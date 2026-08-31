@@ -4,33 +4,24 @@ layout: default
 title: "Mohammed JAMAI | Mechatronics Engineer"
 -----------------------------------------------
 
-<div class="hero">
-  <div class="hero-content">
+# Mohammed JAMAI
 
-```
-<p class="eyebrow">MECHATRONICS ENGINEER · FREELANCE</p>
+## Mechatronics Engineer
 
-<h1>
-  Turning complex engineering
-  problems into <span>validated solutions.</span>
-</h1>
+Modeling & Simulation · HIL · FPGA · Embedded Systems
 
-<p class="hero-description">
-  I help engineering teams design, model, simulate and validate
-  complex systems using MATLAB/Simulink, real-time simulation,
-  HIL, FPGA and embedded technologies.
+<p>
+I help engineering teams design, model, simulate and validate
+complex systems using MATLAB/Simulink, real-time simulation,
+HIL, FPGA and embedded technologies.
 </p>
 
 <div class="hero-buttons">
   <a href="#projects" class="button primary">View Projects</a>
   <a href="#contact" class="button secondary">Let's Work Together</a>
 </div>
-```
 
-  </div>
-</div>
-
-<hr>
+---
 
 ## About Me
 
@@ -136,8 +127,7 @@ power electronics applications, including PFC and DC/DC converters.
 
 <p>
 Integration, testing and validation of FPGA models on SCALEXIO
-real-time simulation platforms, including model adaptation,
-calibration and test scenario validation.
+real-time simulation platforms.
 </p>
 
 <div class="tags">
@@ -162,7 +152,7 @@ calibration and test scenario validation.
 
 <p>
 Development and evolution of embedded C/C++ functionalities
-for a hydrogen bus application, including application integration
+for hydrogen mobility applications, including integration
 and virtual testing.
 </p>
 
@@ -186,9 +176,8 @@ and virtual testing.
 <h3>Battery Modeling & Energy Storage</h3>
 
 <p>
-Development of predictive electronic and mathematical models
-to evaluate battery performance, aging and lifetime under
-different operating scenarios.
+Development of predictive models to evaluate battery performance,
+aging and lifetime under different operating scenarios.
 </p>
 
 <div class="tags">
@@ -240,34 +229,6 @@ different operating scenarios.
 
 ---
 
-## How I Can Help
-
-<div class="service-card">
-
-### 01 · Understand
-
-Requirements analysis and understanding of the engineering problem.
-
-### 02 · Model
-
-Mathematical, physical and system-level modeling.
-
-### 03 · Implement
-
-MATLAB/Simulink, FPGA or embedded implementation.
-
-### 04 · Validate
-
-MiL, SiL, HiL and real-time testing.
-
-### 05 · Deliver
-
-Tested engineering solution with clear technical results.
-
-</div>
-
----
-
 ## Experience
 
 ### FPGA Engineer — Vitesco Technologies
@@ -303,38 +264,29 @@ Engineering Degree · Electrodynamics & Advanced Mechatronics
 
 Bachelor's Degree · Embedded Systems
 
-### École Supérieure de Technologie
-
-DUT · Electronics & Industrial Computing
-
 ---
 
 <div id="contact" class="contact-section">
 
 ## Let's Work Together
 
-Do you need support with:
+I'm available for freelance engineering projects involving:
 
-* MATLAB / Simulink modeling
+* MATLAB / Simulink
 * MiL / SiL / HiL
 * Real-time simulation
-* FPGA development
+* FPGA
 * Embedded C/C++
 * Automotive systems
 * Power electronics
 * Battery and energy systems
 
-Let's discuss your engineering project.
-
 ### Contact
 
-**Email:**
-[jamai-mohammed@hotmail.com](mailto:jamai-mohammed@hotmail.com)
+**Email:** [jamai-mohammed@hotmail.com](mailto:jamai-mohammed@hotmail.com)
 
-**GitHub:**
-[github.com/m-jamai](https://github.com/m-jamai)
+**GitHub:** [github.com/m-jamai](https://github.com/m-jamai)
 
-**LinkedIn:**
-[Connect with me on LinkedIn](#)
+**LinkedIn:** [Connect with me on LinkedIn](#)
 
 </div>
