@@ -1,5 +1,5 @@
 title: "Mohammed JAMAI"
-description: "Mechatronics Engineer | MATLAB/Simulink | HIL | FPGA | Embedded Systems"
+description: "Mechatronics Engineer specializing in modeling, simulation, real-time validation, FPGA and embedded systems."
 author: "Mohammed JAMAI"
 
 url: "https://m-jamai.github.io"
@@ -8,9 +8,11 @@ baseurl: "/m-jamai"
 markdown: kramdown
 
 plugins:
-  - jekyll-seo-tag
+
+* jekyll-seo-tag
 
 exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
+
+* README.md
+* Gemfile
+* Gemfile.lock
