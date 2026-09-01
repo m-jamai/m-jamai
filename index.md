@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: "Mohammed JAMAI — Mechatronics Engineer"
 description: "Mechatronics Engineer specializing in modeling, simulation, real-time validation, FPGA and embedded systems."
