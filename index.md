@@ -1,8 +1,9 @@
 ---
-
 layout: default
 title: "Mohammed JAMAI — Mechatronics Engineer"
------------------------------------------------
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
 <div class="site">
 
