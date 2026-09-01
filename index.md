@@ -1,698 +1,879 @@
 ---
+
 layout: default
 title: "Mohammed JAMAI — Mechatronics Engineer"
----
+description: "Mechatronics Engineer specializing in modeling, simulation, real-time validation, FPGA and embedded systems."
+---------------------------------------------------------------------------------------------------------------------------
 
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
-<div class="site">
+<div class="portfolio">
 
-  <!-- HEADER -->
+  <!-- ==========================================================
+       PROFILE HEADER
+       ========================================================== -->
 
-  <header class="site-header">
+  <header class="profile-header">
 
 ```
-<a href="#top" class="site-name">
-  <strong>Mohammed JAMAI</strong>
-  <span>Mechatronics Engineer</span>
-</a>
+<div class="profile-banner">
 
-<nav class="site-nav" aria-label="Main navigation">
-  <a href="#work">Work</a>
-  <a href="#experience">Experience</a>
-  <a href="#expertise">Expertise</a>
-  <a href="#about">About</a>
-  <a href="#contact">Contact</a>
-</nav>
+  <div class="blueprint-grid"></div>
+
+  <div class="profile-container">
+
+    <div class="profile-heading">
+
+      <p class="profile-kicker">
+        MECHATRONICS ENGINEER · ENGINEERING &amp; RESEARCH
+      </p>
+
+      <h1>Mohammed JAMAI</h1>
+
+      <p class="profile-title">
+        Modeling · Simulation · Real-Time Validation · FPGA · Embedded Systems
+      </p>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+<div class="profile-navigation">
+
+  <div class="profile-container navigation-inner">
+
+    <div class="profile-placeholder"></div>
+
+    <nav class="main-navigation" aria-label="Main navigation">
+      <a href="#work" class="active">Portfolio</a>
+      <a href="#about">About</a>
+      <a href="#experience">Experience</a>
+      <a href="#contact">Contact</a>
+    </nav>
+
+  </div>
+
+</div>
 ```
 
   </header>
 
-  <main id="top">
+  <!-- ==========================================================
+       MAIN CONTENT
+       ========================================================== -->
+
+  <main class="page-container">
 
 ```
-<!-- INTRODUCTION -->
+<div class="content-grid">
 
-<section class="intro">
 
-  <div class="intro-label">
-    <span>01</span>
-    <p>MECHATRONICS ENGINEER</p>
-  </div>
+  <!-- ======================================================
+       LEFT COLUMN
+       ====================================================== -->
 
-  <div class="intro-content">
+  <div class="main-column">
 
-    <h1>
-      Modeling, simulation<br>
-      & real-time validation.
-    </h1>
 
-    <div class="intro-description">
+    <!-- INTRODUCTION -->
 
-      <p class="intro-lead">
-        I am a Mechatronics Engineer working at the intersection
-        of modeling, control, power electronics, FPGA and
-        embedded systems.
-      </p>
+    <section class="content-section" id="about">
 
-      <p>
-        My work focuses on turning engineering requirements into
-        models, implementations and validated technical solutions,
-        with experience across automotive, mobility and energy
-        applications.
-      </p>
-
-      <div class="intro-meta">
-        <span>Toulouse, France</span>
-        <span>Open to mobility</span>
+      <div class="section-title">
+        <span>01</span>
+        <h2>Introduction</h2>
       </div>
 
-    </div>
 
-  </div>
+      <article class="card introduction-card">
 
-</section>
+        <div class="card-section">
 
+          <h3>Summary</h3>
 
-<!-- SELECTED WORK -->
-
-<section class="section" id="work">
-
-  <div class="section-header">
-
-    <div class="section-index">02</div>
-
-    <div>
-      <p class="section-label">SELECTED WORK</p>
-      <h2>Engineering projects</h2>
-    </div>
-
-  </div>
-
-
-  <div class="work-list">
-
-    <!-- PROJECT 01 -->
-
-    <article class="work-item">
-
-      <div class="work-number">01</div>
-
-      <div class="work-main">
-
-        <div class="work-heading">
-
-          <div>
-            <p class="work-type">
-              AUTOMOTIVE · POWER ELECTRONICS · REAL-TIME
-            </p>
-
-            <h3>
-              Real-Time Modeling of
-              Power Electronics
-            </h3>
-          </div>
-
-          <span class="work-period">2023 — 2025</span>
-
-        </div>
-
-        <p class="work-description">
-          Development of MATLAB/Simulink models for the
-          MiL, SiL and HiL validation of automotive power
-          electronics applications, including PFC and DC/DC
-          converters.
-        </p>
-
-        <div class="work-details">
-
-          <div>
-            <span>Role</span>
-            <strong>FPGA Engineer · Modeling & Validation</strong>
-          </div>
-
-          <div>
-            <span>Environment</span>
-            <strong>dSPACE · SCALEXIO · FPGA</strong>
-          </div>
-
-          <div>
-            <span>Tools</span>
-            <strong>MATLAB · Simulink · PSpice</strong>
-          </div>
-
-        </div>
-
-      </div>
-
-    </article>
-
-
-    <!-- PROJECT 02 -->
-
-    <article class="work-item">
-
-      <div class="work-number">02</div>
-
-      <div class="work-main">
-
-        <div class="work-heading">
-
-          <div>
-            <p class="work-type">
-              FPGA · REAL-TIME SIMULATION · HIL
-            </p>
-
-            <h3>
-              FPGA Model Integration
-              & HIL Validation
-            </h3>
-          </div>
-
-        </div>
-
-        <p class="work-description">
-          Integration, testing and validation of FPGA models
-          on SCALEXIO real-time simulation platforms for
-          power electronics applications.
-        </p>
-
-        <div class="work-details">
-
-          <div>
-            <span>Focus</span>
-            <strong>Model integration · Testing · Validation</strong>
-          </div>
-
-          <div>
-            <span>Platform</span>
-            <strong>dSPACE · SCALEXIO</strong>
-          </div>
-
-          <div>
-            <span>Technologies</span>
-            <strong>FPGA · HLS · HDL</strong>
-          </div>
-
-        </div>
-
-      </div>
-
-    </article>
-
-
-    <!-- PROJECT 03 -->
-
-    <article class="work-item">
-
-      <div class="work-number">03</div>
-
-      <div class="work-main">
-
-        <div class="work-heading">
-
-          <div>
-            <p class="work-type">
-              EMBEDDED SYSTEMS · HYDROGEN MOBILITY
-            </p>
-
-            <h3>
-              Embedded Software
-              for Hydrogen Mobility
-            </h3>
-          </div>
-
-        </div>
-
-        <p class="work-description">
-          Development and integration of embedded C/C++
-          functionalities for hydrogen mobility applications,
-          including software analysis, diagnostics and
-          virtual testing.
-        </p>
-
-        <div class="work-details">
-
-          <div>
-            <span>Role</span>
-            <strong>Embedded Software Engineer</strong>
-          </div>
-
-          <div>
-            <span>Technologies</span>
-            <strong>C · C++ · Python</strong>
-          </div>
-
-          <div>
-            <span>Methods</span>
-            <strong>ISO 26262 · ASIL · Polarion</strong>
-          </div>
-
-        </div>
-
-      </div>
-
-    </article>
-
-
-    <!-- PROJECT 04 -->
-
-    <article class="work-item">
-
-      <div class="work-number">04</div>
-
-      <div class="work-main">
-
-        <div class="work-heading">
-
-          <div>
-            <p class="work-type">
-              ENERGY · BATTERY SYSTEMS
-            </p>
-
-            <h3>
-              Battery Modeling
-              & Energy Storage
-            </h3>
-          </div>
-
-        </div>
-
-        <p class="work-description">
-          Modeling and simulation of battery systems to study
-          performance, aging and lifetime under different
-          operating conditions, combined with technical and
-          economic analysis of energy storage solutions.
-        </p>
-
-        <div class="work-details">
-
-          <div>
-            <span>Role</span>
-            <strong>Battery Study Engineer</strong>
-          </div>
-
-          <div>
-            <span>Focus</span>
-            <strong>Modeling · Simulation · Optimization</strong>
-          </div>
-
-          <div>
-            <span>Tools</span>
-            <strong>MATLAB · Simulink · Python</strong>
-          </div>
-
-        </div>
-
-      </div>
-
-    </article>
-
-  </div>
-
-</section>
-
-
-<!-- EXPERIENCE -->
-
-<section class="section section-gray" id="experience">
-
-  <div class="section-header">
-
-    <div class="section-index">03</div>
-
-    <div>
-      <p class="section-label">EXPERIENCE</p>
-      <h2>Professional experience</h2>
-    </div>
-
-  </div>
-
-
-  <div class="experience-list">
-
-    <article class="experience-item">
-
-      <div class="experience-date">
-        2023 — 2025
-      </div>
-
-      <div class="experience-body">
-
-        <h3>FPGA Engineer</h3>
-
-        <p class="experience-company">
-          Vitesco Technologies · Toulouse
-        </p>
-
-        <p>
-          Development of MATLAB/Simulink models for
-          MiL/SiL/HiL validation of automotive power electronics.
-          FPGA model integration, testing and validation on
-          dSPACE SCALEXIO platforms, including adaptation,
-          calibration and analysis of test scenarios.
-        </p>
-
-      </div>
-
-    </article>
-
-
-    <article class="experience-item">
-
-      <div class="experience-date">
-        2022 — 2023
-      </div>
-
-      <div class="experience-body">
-
-        <h3>Embedded Software Engineer</h3>
-
-        <p class="experience-company">
-          SAFRA · Albi
-        </p>
-
-        <p>
-          Development and evolution of embedded C/C++ software
-          for hydrogen mobility applications. Requirements
-          management, software analysis, diagnostics and virtual
-          testing within an ISO 26262 / ASIL environment.
-        </p>
-
-      </div>
-
-    </article>
-
-
-    <article class="experience-item">
-
-      <div class="experience-date">
-        2022
-      </div>
-
-      <div class="experience-body">
-
-        <h3>Battery Study Engineer</h3>
-
-        <p class="experience-company">
-          Artelia · Lyon
-        </p>
-
-        <p>
-          Battery compliance analysis, modeling of battery
-          performance and aging, and technical-economic sizing
-          and optimization of energy storage systems.
-        </p>
-
-      </div>
-
-    </article>
-
-  </div>
-
-</section>
-
-
-<!-- EXPERTISE -->
-
-<section class="section" id="expertise">
-
-  <div class="section-header">
-
-    <div class="section-index">04</div>
-
-    <div>
-      <p class="section-label">EXPERTISE</p>
-      <h2>Technical domains</h2>
-    </div>
-
-  </div>
-
-
-  <div class="expertise-list">
-
-    <div class="expertise-row">
-
-      <span>01</span>
-
-      <div>
-        <h3>Modeling & Simulation</h3>
-        <p>
-          MATLAB · Simulink · PSpice · System modeling ·
-          Control · MiL · SiL · HiL
-        </p>
-      </div>
-
-    </div>
-
-
-    <div class="expertise-row">
-
-      <span>02</span>
-
-      <div>
-        <h3>Real-Time Systems</h3>
-        <p>
-          dSPACE · SCALEXIO · Real-time simulation ·
-          HIL testing · Model integration
-        </p>
-      </div>
-
-    </div>
-
-
-    <div class="expertise-row">
-
-      <span>03</span>
-
-      <div>
-        <h3>FPGA Engineering</h3>
-        <p>
-          Xilinx · Quartus · HLS · HDL · FPGA modeling ·
-          FPGA validation
-        </p>
-      </div>
-
-    </div>
-
-
-    <div class="expertise-row">
-
-      <span>04</span>
-
-      <div>
-        <h3>Embedded Systems</h3>
-        <p>
-          C · C++ · Python · Embedded software · Diagnostics ·
-          Virtual testing
-        </p>
-      </div>
-
-    </div>
-
-
-    <div class="expertise-row">
-
-      <span>05</span>
-
-      <div>
-        <h3>Automotive Engineering</h3>
-        <p>
-          ISO 26262 · ASIL · ASPICE · Polarion · INCA ·
-          Requirements engineering
-        </p>
-      </div>
-
-    </div>
-
-
-    <div class="expertise-row">
-
-      <span>06</span>
-
-      <div>
-        <h3>Engineering Tools</h3>
-        <p>
-          Git · SVN · Jira · Confluence · Cygwin
-        </p>
-      </div>
-
-    </div>
-
-  </div>
-
-</section>
-
-
-<!-- ABOUT -->
-
-<section class="section section-gray" id="about">
-
-  <div class="section-header">
-
-    <div class="section-index">05</div>
-
-    <div>
-      <p class="section-label">ABOUT</p>
-      <h2>Engineering approach</h2>
-    </div>
-
-  </div>
-
-
-  <div class="about-layout">
-
-    <div class="about-statement">
-
-      <p>
-        I approach engineering problems from the system
-        and requirements level, with a focus on understanding
-        the physical problem before choosing the implementation
-        or validation method.
-      </p>
-
-    </div>
-
-
-    <div class="about-text">
-
-      <p>
-        My work combines mathematical and system modeling,
-        simulation, embedded implementation and real-time
-        validation.
-      </p>
-
-      <p>
-        I am particularly interested in problems where several
-        engineering disciplines meet: control, electronics,
-        software, FPGA and physical systems.
-      </p>
-
-      <p>
-        The objective is simple: build solutions that are
-        technically sound, measurable and validated.
-      </p>
-
-    </div>
-
-  </div>
-
-
-  <div class="education">
-
-    <p class="section-label">EDUCATION</p>
-
-    <div class="education-list">
-
-      <div class="education-item">
-
-        <span>2019 — 2022</span>
-
-        <div>
-          <strong>ENSEEIHT – INP Toulouse</strong>
           <p>
-            Engineering Degree · Electrodynamics & Advanced Mechatronics
+            I am a Mechatronics Engineer specialized in modeling,
+            simulation and real-time validation of complex engineering
+            systems.
           </p>
+
+          <p>
+            My experience covers automotive, embedded systems, FPGA
+            and energy applications, with a particular focus on
+            MATLAB/Simulink, MiL/SiL/HiL environments and real-time
+            simulation.
+          </p>
+
+        </div>
+
+
+        <div class="card-divider"></div>
+
+
+        <div class="card-section">
+
+          <h3>Engineering approach</h3>
+
+          <p>
+            I approach engineering problems from the system and
+            requirements level first: understand the problem, develop
+            an appropriate model or implementation, validate it
+            systematically and deliver a reliable technical solution.
+          </p>
+
+        </div>
+
+      </article>
+
+    </section>
+
+
+    <!-- SELECTED WORK -->
+
+    <section class="content-section" id="work">
+
+      <div class="section-title">
+        <span>02</span>
+        <h2>Selected Work</h2>
+      </div>
+
+
+      <div class="card project-list">
+
+
+        <!-- PROJECT 01 -->
+
+        <article class="project-card">
+
+          <div class="project-number">
+            01
+          </div>
+
+          <div class="project-content">
+
+            <div class="project-header">
+
+              <div>
+
+                <p class="project-category">
+                  AUTOMOTIVE · POWER ELECTRONICS
+                </p>
+
+                <h3>
+                  Real-Time Simulation &amp; HIL
+                </h3>
+
+              </div>
+
+              <span class="project-period">
+                2023–2025
+              </span>
+
+            </div>
+
+
+            <p class="project-description">
+              Development and validation of MATLAB/Simulink models
+              for automotive power electronics applications,
+              including PFC and DC/DC converters.
+            </p>
+
+
+            <div class="project-details">
+
+              <div>
+                <span>Role</span>
+                <strong>FPGA Engineer</strong>
+              </div>
+
+              <div>
+                <span>Methods</span>
+                <strong>MiL · SiL · HiL</strong>
+              </div>
+
+              <div>
+                <span>Tools</span>
+                <strong>MATLAB · Simulink · SCALEXIO</strong>
+              </div>
+
+            </div>
+
+          </div>
+
+        </article>
+
+
+        <!-- PROJECT 02 -->
+
+        <article class="project-card">
+
+          <div class="project-number">
+            02
+          </div>
+
+          <div class="project-content">
+
+            <div class="project-header">
+
+              <div>
+
+                <p class="project-category">
+                  FPGA · REAL-TIME SYSTEMS
+                </p>
+
+                <h3>
+                  FPGA Modeling &amp; Validation
+                </h3>
+
+              </div>
+
+            </div>
+
+
+            <p class="project-description">
+              Integration, testing and validation of FPGA-based
+              models on dSPACE SCALEXIO real-time simulation
+              platforms for power electronics applications.
+            </p>
+
+
+            <div class="project-details">
+
+              <div>
+                <span>Focus</span>
+                <strong>FPGA Integration</strong>
+              </div>
+
+              <div>
+                <span>Platform</span>
+                <strong>SCALEXIO</strong>
+              </div>
+
+              <div>
+                <span>Technologies</span>
+                <strong>Xilinx · HLS · HDL</strong>
+              </div>
+
+            </div>
+
+          </div>
+
+        </article>
+
+
+        <!-- PROJECT 03 -->
+
+        <article class="project-card">
+
+          <div class="project-number">
+            03
+          </div>
+
+          <div class="project-content">
+
+            <div class="project-header">
+
+              <div>
+
+                <p class="project-category">
+                  EMBEDDED SYSTEMS · HYDROGEN
+                </p>
+
+                <h3>
+                  Embedded Automotive Systems
+                </h3>
+
+              </div>
+
+            </div>
+
+
+            <p class="project-description">
+              Development and testing of embedded C/C++ functionalities
+              for hydrogen mobility applications, including requirements
+              management, software analysis and virtual testing.
+            </p>
+
+
+            <div class="project-details">
+
+              <div>
+                <span>Role</span>
+                <strong>Embedded Software Engineer</strong>
+              </div>
+
+              <div>
+                <span>Languages</span>
+                <strong>C · C++</strong>
+              </div>
+
+              <div>
+                <span>Methods</span>
+                <strong>ISO 26262 · ASIL</strong>
+              </div>
+
+            </div>
+
+          </div>
+
+        </article>
+
+
+        <!-- PROJECT 04 -->
+
+        <article class="project-card">
+
+          <div class="project-number">
+            04
+          </div>
+
+          <div class="project-content">
+
+            <div class="project-header">
+
+              <div>
+
+                <p class="project-category">
+                  ENERGY · BATTERY SYSTEMS
+                </p>
+
+                <h3>
+                  Battery Modeling &amp; Energy Storage
+                </h3>
+
+              </div>
+
+            </div>
+
+
+            <p class="project-description">
+              Modeling and simulation of battery systems to evaluate
+              performance, aging and lifetime under different operating
+              conditions, combined with technical and economic analysis.
+            </p>
+
+
+            <div class="project-details">
+
+              <div>
+                <span>Focus</span>
+                <strong>Battery Modeling</strong>
+              </div>
+
+              <div>
+                <span>Analysis</span>
+                <strong>Performance · Aging</strong>
+              </div>
+
+              <div>
+                <span>Tools</span>
+                <strong>MATLAB · Simulation</strong>
+              </div>
+
+            </div>
+
+          </div>
+
+        </article>
+
+      </div>
+
+    </section>
+
+
+    <!-- EXPERIENCE -->
+
+    <section class="content-section" id="experience">
+
+      <div class="section-title">
+        <span>03</span>
+        <h2>Experience</h2>
+      </div>
+
+
+      <div class="card experience-list">
+
+
+        <article class="experience-item">
+
+          <div class="experience-date">
+            2023<br>2025
+          </div>
+
+          <div>
+
+            <p class="experience-role">
+              FPGA Engineer
+            </p>
+
+            <p class="experience-company">
+              Vitesco Technologies · Toulouse
+            </p>
+
+            <p class="experience-description">
+              MATLAB/Simulink modeling for MiL, SiL and HiL
+              validation of automotive power electronics.
+              FPGA integration, testing and real-time validation
+              on dSPACE SCALEXIO platforms.
+            </p>
+
+          </div>
+
+        </article>
+
+
+        <article class="experience-item">
+
+          <div class="experience-date">
+            2022<br>2023
+          </div>
+
+          <div>
+
+            <p class="experience-role">
+              Embedded Software Engineer
+            </p>
+
+            <p class="experience-company">
+              SAFRA · Albi
+            </p>
+
+            <p class="experience-description">
+              Embedded C/C++ development for hydrogen mobility,
+              requirements management, software analysis,
+              diagnostics and virtual testing within an
+              ISO 26262 / ASIL environment.
+            </p>
+
+          </div>
+
+        </article>
+
+
+        <article class="experience-item">
+
+          <div class="experience-date">
+            2022
+          </div>
+
+          <div>
+
+            <p class="experience-role">
+              Battery Study Engineer
+            </p>
+
+            <p class="experience-company">
+              Artelia · Lyon
+            </p>
+
+            <p class="experience-description">
+              Battery compliance analysis, performance and
+              lifetime modeling, and technical-economic sizing
+              of energy storage systems.
+            </p>
+
+          </div>
+
+        </article>
+
+      </div>
+
+    </section>
+
+
+    <!-- EXPERTISE -->
+
+    <section class="content-section">
+
+      <div class="section-title">
+        <span>04</span>
+        <h2>Technical Expertise</h2>
+      </div>
+
+
+      <div class="card expertise-card">
+
+        <div class="expertise-row">
+
+          <div class="expertise-number">01</div>
+
+          <div>
+
+            <h3>Modeling &amp; Simulation</h3>
+
+            <p>
+              MATLAB · Simulink · PSpice · System Modeling · Control
+              · MiL · SiL · HiL
+            </p>
+
+          </div>
+
+        </div>
+
+
+        <div class="expertise-row">
+
+          <div class="expertise-number">02</div>
+
+          <div>
+
+            <h3>Real-Time Systems</h3>
+
+            <p>
+              dSPACE · SCALEXIO · Real-Time Simulation · HIL
+              Validation · Test Scenarios
+            </p>
+
+          </div>
+
+        </div>
+
+
+        <div class="expertise-row">
+
+          <div class="expertise-number">03</div>
+
+          <div>
+
+            <h3>FPGA Engineering</h3>
+
+            <p>
+              Xilinx · Quartus · HLS · HDL · FPGA Modeling
+              · Integration · Validation
+            </p>
+
+          </div>
+
+        </div>
+
+
+        <div class="expertise-row">
+
+          <div class="expertise-number">04</div>
+
+          <div>
+
+            <h3>Embedded Systems</h3>
+
+            <p>
+              C · C++ · Python · Embedded Software · Diagnostics
+              · Virtual Testing
+            </p>
+
+          </div>
+
+        </div>
+
+
+        <div class="expertise-row">
+
+          <div class="expertise-number">05</div>
+
+          <div>
+
+            <h3>Automotive Engineering</h3>
+
+            <p>
+              ISO 26262 · ASIL · ASPICE · Polarion · INCA
+              · Requirements Engineering
+            </p>
+
+          </div>
+
         </div>
 
       </div>
 
+    </section>
 
-      <div class="education-item">
 
-        <span>2018 — 2019</span>
+    <!-- EDUCATION -->
 
-        <div>
-          <strong>INSSET – Université de Picardie Jules Verne</strong>
-          <p>
-            Bachelor's Degree · Embedded Systems
-          </p>
-        </div>
+    <section class="content-section">
 
+      <div class="section-title">
+        <span>05</span>
+        <h2>Education</h2>
       </div>
 
 
-      <div class="education-item">
+      <div class="card education-list">
 
-        <span>2016 — 2018</span>
+        <article class="education-item">
 
-        <div>
-          <strong>École Supérieure de Technologie</strong>
-          <p>
-            DUT · Electronics & Industrial Computing
-          </p>
-        </div>
+          <div class="education-year">
+            2019–2022
+          </div>
+
+          <div>
+
+            <h3>Engineering Degree</h3>
+
+            <p class="education-school">
+              ENSEEIHT – INP Toulouse
+            </p>
+
+            <p>
+              Electrodynamics &amp; Advanced Mechatronics
+            </p>
+
+          </div>
+
+        </article>
+
+
+        <article class="education-item">
+
+          <div class="education-year">
+            2018–2019
+          </div>
+
+          <div>
+
+            <h3>Bachelor's Degree</h3>
+
+            <p class="education-school">
+              INSSET – Université de Picardie Jules Verne
+            </p>
+
+            <p>
+              Embedded Systems
+            </p>
+
+          </div>
+
+        </article>
+
+
+        <article class="education-item">
+
+          <div class="education-year">
+            2016–2018
+          </div>
+
+          <div>
+
+            <h3>DUT</h3>
+
+            <p class="education-school">
+              École Supérieure de Technologie
+            </p>
+
+            <p>
+              Electronics &amp; Industrial Computing
+            </p>
+
+          </div>
+
+        </article>
+
+      </div>
+
+    </section>
+
+  </div>
+
+
+  <!-- ======================================================
+       RIGHT SIDEBAR
+       ====================================================== -->
+
+  <aside class="sidebar">
+
+
+    <!-- PROFILE NOTE -->
+
+    <div class="sidebar-card sidebar-blue">
+
+      <p class="sidebar-label">
+        ENGINEERING PROFILE
+      </p>
+
+      <h3>
+        From models<br>
+        to validated systems.
+      </h3>
+
+      <p>
+        I work at the intersection of system modeling,
+        simulation, electronics and embedded systems.
+      </p>
+
+    </div>
+
+
+    <!-- CURRENT FOCUS -->
+
+    <div class="sidebar-card">
+
+      <p class="sidebar-label">
+        CURRENT FOCUS
+      </p>
+
+      <ul class="clean-list">
+
+        <li>Real-time simulation</li>
+        <li>MATLAB / Simulink</li>
+        <li>HIL / SIL / MIL</li>
+        <li>FPGA development</li>
+        <li>Embedded systems</li>
+        <li>Power electronics</li>
+
+      </ul>
+
+    </div>
+
+
+    <!-- TOOLS -->
+
+    <div class="sidebar-card">
+
+      <p class="sidebar-label">
+        TOOLS
+      </p>
+
+      <div class="tool-list">
+
+        <span>MATLAB</span>
+        <span>Simulink</span>
+        <span>dSPACE</span>
+        <span>SCALEXIO</span>
+        <span>Xilinx</span>
+        <span>Quartus</span>
+        <span>C / C++</span>
+        <span>Python</span>
+        <span>Polarion</span>
+        <span>Git</span>
 
       </div>
 
     </div>
 
-  </div>
 
-</section>
+    <!-- APPROACH -->
 
+    <div class="sidebar-card sidebar-blue">
 
-<!-- CONTACT -->
+      <p class="sidebar-label">
+        APPROACH
+      </p>
 
-<section class="contact" id="contact">
+      <ol class="process-list">
 
-  <div class="contact-header">
+        <li>
+          <strong>Understand</strong>
+          <span>Requirements &amp; problem</span>
+        </li>
 
-    <p class="section-label">06 · CONTACT</p>
+        <li>
+          <strong>Model</strong>
+          <span>System &amp; mathematics</span>
+        </li>
 
-    <h2>
-      Let's discuss an<br>
-      engineering problem.
-    </h2>
+        <li>
+          <strong>Implement</strong>
+          <span>Simulation, FPGA or embedded</span>
+        </li>
 
-  </div>
+        <li>
+          <strong>Validate</strong>
+          <span>MiL · SiL · HiL</span>
+        </li>
 
+      </ol>
 
-  <div class="contact-content">
-
-    <p>
-      I am interested in engineering projects involving
-      modeling, simulation, real-time validation, FPGA,
-      embedded systems, automotive applications and
-      power electronics.
-    </p>
-
-    <a
-      href="mailto:jamai-mohammed@hotmail.com"
-      class="contact-link"
-    >
-      jamai-mohammed@hotmail.com
-      <span>↗</span>
-    </a>
-
-    <div class="contact-meta">
-      <span>Toulouse, France</span>
-      <span>Open to mobility</span>
     </div>
 
-  </div>
 
-</section>
+    <!-- LOCATION -->
+
+    <div class="sidebar-card sidebar-location">
+
+      <p class="sidebar-label">
+        LOCATION
+      </p>
+
+      <p class="location-city">
+        Toulouse, France
+      </p>
+
+      <p>
+        Open to mobility and engineering opportunities.
+      </p>
+
+    </div>
+
+  </aside>
+
+</div>
 ```
 
   </main>
 
-  <!-- FOOTER -->
+  <!-- ==========================================================
+       CONTACT
+       ========================================================== -->
 
-  <footer class="site-footer">
+  <section class="contact-section" id="contact">
 
 ```
-<div>
-  <strong>Mohammed JAMAI</strong>
-  <span>Mechatronics Engineer</span>
-</div>
+<div class="contact-container">
 
-<div class="footer-links">
-  <a href="https://github.com/m-jamai">GitHub</a>
-  <a href="mailto:jamai-mohammed@hotmail.com">Email</a>
-</div>
+  <p class="contact-label">
+    CONTACT
+  </p>
 
-<span>© 2026</span>
+  <h2>
+    Let's discuss an<br>
+    engineering problem.
+  </h2>
+
+  <p class="contact-description">
+    I am interested in engineering opportunities and projects
+    involving modeling, simulation, real-time validation,
+    FPGA and embedded systems.
+  </p>
+
+  <a
+    href="mailto:jamai-mohammed@hotmail.com"
+    class="email-link"
+  >
+    jamai-mohammed@hotmail.com
+    <span>↗</span>
+  </a>
+
+  <div class="contact-meta">
+    <span>Toulouse · France</span>
+    <a href="https://github.com/m-jamai">GitHub</a>
+  </div>
+
+</div>
+```
+
+  </section>
+
+  <!-- ==========================================================
+       FOOTER
+       ========================================================== -->
+
+  <footer class="footer">
+
+```
+<div class="footer-inner">
+
+  <div>
+    <strong>Mohammed JAMAI</strong>
+    <span>Mechatronics Engineer</span>
+  </div>
+
+  <div>
+    © 2026 Mohammed JAMAI
+  </div>
+
+</div>
 ```
 
   </footer>
