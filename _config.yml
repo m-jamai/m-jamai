@@ -8,11 +8,9 @@ baseurl: "/m-jamai"
 markdown: kramdown
 
 plugins:
-
-* jekyll-seo-tag
+  - jekyll-seo-tag
 
 exclude:
-
-* README.md
-* Gemfile
-* Gemfile.lock
+  - README.md
+  - Gemfile
+  - Gemfile.lock
